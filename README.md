@@ -32,6 +32,6 @@ cmake ..
 make
 ```
 
-## User
+## Use
 ```
 web-crawler <url> --clear-waitlist
