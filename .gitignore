@@ -1,4 +1,5 @@
 /.vscode
 /build
 *.db
-.database*
+./database*
+*.bin
