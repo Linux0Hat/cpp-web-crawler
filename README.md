@@ -11,7 +11,7 @@ Web crawler explore the web and save every pages he found.
 - `gcc`
 - `sqlite3`
 - `curl`
-- `[SQLiteCpp](https://github.com/SRombauts/SQLiteCpp)` clone on /libs/SQLiteCpp
+- [`SQLiteCpp`](https://github.com/SRombauts/SQLiteCpp) clone on /libs/SQLiteCpp
 
 ### Build
 
