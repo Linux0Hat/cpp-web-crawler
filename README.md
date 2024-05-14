@@ -31,3 +31,7 @@ cd build
 cmake ..
 make
 ```
+
+## User
+```
+web-crawler <url> --clear-waitlist
